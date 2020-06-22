@@ -1,5 +1,4 @@
 # Hello-world
-My first time
 
 
 Hi guys,
